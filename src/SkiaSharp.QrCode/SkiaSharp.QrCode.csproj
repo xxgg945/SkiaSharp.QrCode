@@ -19,6 +19,7 @@
     <PackageTags>skia, skiasharp, qrcode</PackageTags>
     <NeutralLanguage>en</NeutralLanguage>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <PackageId>SkiaSharp.QrCodeFork</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
